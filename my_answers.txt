@@ -1,2 +1,7 @@
 HOI
+<<<<<<< HEAD
 halo merel
+=======
+hello 
+hey
+>>>>>>> defd3786f26439dbe56d506ea688bc7eff4d03fa
